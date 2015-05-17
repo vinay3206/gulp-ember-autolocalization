@@ -14,10 +14,13 @@
     "ember",
     "localization",
     "handlebars",
-    "localization"
+    "localization",
+    "autolocalization",
+    "handlebars localization helper"
   ],
   "author": "vinay pandey",
-  "license": "BSD-2-Clause",
+  "license": "MIT",
+  "readmeFilename": "README.md",
   "bugs": {
     "url": "https://github.com/vinay3206/gulp-ember-autolocalization/issues"
   },
