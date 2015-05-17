@@ -38,7 +38,7 @@ Specify your helper name while calling the function. Default value `loc` will be
 <div>hello {{isHello}}</div>
 ```
 
-##Example input
+##Example output
 Assuming helper passes is `loc`
 
 ```javascript

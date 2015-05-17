@@ -1,6 +1,6 @@
 {
   "name": "gulp-ember-autolocalization",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A small library which adds localization helper to handlebar templates",
   "main": "index.js",
   "scripts": {
