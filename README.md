@@ -1,4 +1,4 @@
-# gulp-ember-autoglobalization
+# gulp-ember-autolocalization
 
 This is a gulp plugin to process to add localization helper to handlebars template.
 
