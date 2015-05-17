@@ -30,3 +30,17 @@ gulp-auto-localization outputs a raw `Ember.Handlebars.template` with localizati
 Type: `String`
 
 Specify your helper name while calling the function. Default value `loc` will be taken if nothing is passed. 
+
+
+##Example input
+
+```javascript
+<div>hello {{isHello}}</div>
+```
+
+##Example input
+Assuming helper passes is `loc`
+
+```javascript
+<div>{{loc 'hello'}} {{isHello}}</div>
+```
