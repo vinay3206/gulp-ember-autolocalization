@@ -4,7 +4,7 @@
   "description": "A small library which adds localization helper to handlebar templates",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test.js"
   },
   "repository": {
     "type": "git",
@@ -23,8 +23,9 @@
   },
   "homepage": "https://github.com/vinay3206/gulp-ember-autolocalization",
   "devDependencies": {
+    "event-stream": "^3.3.1",
     "gulp-util": "^3.0.4",
-    "html-parse-stringify": "^1.0.2",
-    "through2": "^0.6.5"
+    "through2": "^0.6.5",
+    "vinyl": "^0.4.6"
   }
 }
